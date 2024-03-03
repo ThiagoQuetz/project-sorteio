@@ -1,0 +1,35 @@
+@media (max-width: 500px) {
+    img{
+        display: block;
+        width: 60%;
+        height: auto;
+        margin: 10% auto
+
+    }
+
+    p{  margin-top: 0%;
+        margin-bottom: 10%;
+        margin-left: 20%;
+        font-size: 25px;
+    }
+
+    div{
+        display: block;
+        width: 100vw;
+        margin: 0 auto;
+    }
+
+    input{
+        text-align: center;
+        display: flex;
+        margin: 0 auto 10px;
+        width: 90%;
+        height: 90%;
+    }
+
+    button{
+        margin: 10%;
+        margin-left: 5%;
+        width: 90%;
+        height: 90%;
+    }
