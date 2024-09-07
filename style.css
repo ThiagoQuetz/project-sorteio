@@ -69,7 +69,7 @@ button{
 
 }
 
-buton:hover{
+button:hover{
     opacity: 0.9;
 }
 
@@ -96,6 +96,7 @@ button:active{
 input{
     padding: 10px;
     margin: 10px;
+
 }
      
 
