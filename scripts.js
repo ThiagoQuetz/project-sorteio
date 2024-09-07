@@ -9,7 +9,7 @@ function generateNumber() {
 
         const result = Math.floor(Math.random() * (max - min + 1)) + min;
 
-        alert("Seu resultado é:" + result)
+        alert("Seu resultado é: " + result)
     }
 
 }
